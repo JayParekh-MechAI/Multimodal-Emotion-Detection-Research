@@ -56,4 +56,4 @@ The project followed a rigorous 3-month timeline, managed via an **Agile methodo
 * **CREMA-D Dataset**: Retraining the model on more demographically diverse data to further mitigate cultural and racial bias.
 
 ---
-**[📄 View Full Dissertation (Word)](Dissertation.pdf)** | **[📊 View Presentation (PPTX)](Presentation.pptx)**
+**[📄 View Full Dissertation (PDF)](Dissertation.pdf)** | **[📊 View Presentation (PPTX)](Presentation.pptx)**
