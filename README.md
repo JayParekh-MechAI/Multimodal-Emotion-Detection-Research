@@ -14,6 +14,7 @@ The proposed model uses a **Transfer Learning Ensemble** approach to capture com
 * **GlobalPooling3D**: Two layers with **ELU activation** utilized for dimensionality reduction to optimize model size.
 
 ![BiLSTM Architecture](bilstm.png)
+
 *Figure: Diagram of the BiLSTM cell structure used to capture temporal dependencies.*
 
 ---
